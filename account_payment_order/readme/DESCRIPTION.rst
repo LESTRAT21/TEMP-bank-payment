@@ -1,1 +1,2 @@
-This module adds support for payment orders and debit orders.
+This module allow users to create payment orders and debit orders. These orders are indeed structured files including the requisite informations for your bank to pay or to withdraw from your bank account. 
+ 
